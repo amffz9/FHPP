@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FHPP</string>
+    <string name="gpm">Gal/Min</string>
+    <string name="soh">Size of Hose</string>
+    <string name="loh">Hose Length</string>
+
+    <string-array name="hose_array">
+        <item>3/4 "</item>
+        <item>1 "</item>
+        <item>1 1/4 "</item>
+        <item>1 1/2 "</item>
+        <item>1 3/4 "</item>
+        <item>2 inch</item>
+        <item>2 1/2 "</item>
+        <item>2 3/4 "</item>
+        <item>3" (2 1/2" coupling)</item>
+        <item>3" (3" coupling)</item>
+        <item>3 1/2"</item>
+        <item>4"</item>
+        <item>4 1/2"</item>
+        <item>5"</item>
+        <item>6"</item>
+    </string-array>
+</resources>
